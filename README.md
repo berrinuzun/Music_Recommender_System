@@ -1,4 +1,4 @@
-🎵 Music Recommender System
+## 🎵 Music Recommender System
 
 This is a Music Recommender System built with Streamlit, Spotipy, and scikit-learn's KNN algorithm. It suggests similar songs based on the selected track and displays album covers fetched from Spotify's API.
 
